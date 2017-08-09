@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <title>Temporis.nl</title>
+  <link>Just another WordPress site</link>
+  <description>http://localhost:8888/shopX</description>
+  <channel>
+    <product>
+      <g:id>12</g:id>
+      <title><![CDATA[Third Product]]></title>
+      <description><![CDATA[Derde product korte beschrijving met een &amp; teken, een &lt; pijltje naar links, een paar ' " apostrofen.]]></description>
+      <g:brand><![CDATA[Third]]></g:brand>
+      <g:mpn>DRIE3</g:mpn>
+      <g:price>39.93 EUR</g:price>
+      <link><![CDATA[http://localhost:8888/shopX/product/third-product/]]></link>
+      <g:availability><![CDATA[in stock]]></g:availability>
+      <g:google_product_category>231</g:google_product_category>
+      <g:product_type><![CDATA[Third]]></g:product_type>
+      <g:image_link><![CDATA[http://localhost:8888/shopX/wp-content/uploads/2016/02/seiko_SNK385K1.jpg]]></g:image_link>
+      <g:condition>new</g:condition>
+    </product>
+    <product>
+      <g:id>10</g:id>
+      <title><![CDATA[Tweede product]]></title>
+      <description><![CDATA[short description]]></description>
+      <g:brand><![CDATA[Derde niveau]]></g:brand>
+      <g:mpn>productSKU5674</g:mpn>
+      <g:price>147.62 EUR</g:price>
+      <link><![CDATA[http://localhost:8888/shopX/product/tweede-product/]]></link>
+      <g:availability><![CDATA[in stock]]></g:availability>
+      <g:google_product_category>231</g:google_product_category>
+      <g:product_type><![CDATA[Derde niveau > Eerste niveau > Tweede niveau]]></g:product_type>
+      <g:image_link><![CDATA[http://localhost:8888/shopX/wp-content/uploads/2016/02/seiko_SNK385K1.jpg]]></g:image_link>
+      <g:condition>new</g:condition>
+    </product>
+    <product>
+      <g:id>8</g:id>
+      <title><![CDATA[Seiko Monster SNK009]]></title>
+      <description><![CDATA[Product Short Description]]></description>
+      <g:brand><![CDATA[Seiko]]></g:brand>
+      <g:mpn>productSKU1234</g:mpn>
+      <g:price>417.45 EUR</g:price>
+      <link><![CDATA[http://localhost:8888/shopX/product/seiko-monster-snk009/]]></link>
+      <g:availability><![CDATA[in stock]]></g:availability>
+      <g:google_product_category>231</g:google_product_category>
+      <g:product_type><![CDATA[Seiko]]></g:product_type>
+      <g:image_link><![CDATA[http://localhost:8888/shopX/wp-content/uploads/2016/02/seiko_SNK385K1.jpg]]></g:image_link>
+      <g:condition>new</g:condition>
+    </product>
+  </channel>
+</rss>
